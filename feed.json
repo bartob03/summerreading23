@@ -1,0 +1,133 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Late summer reading 2023",
+    "description": "",
+    "home_page_url": "https://bartob03.github.io/summerreading23",
+    "feed_url": "https://bartob03.github.io/summerreading23/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Brian Bartolome"
+    },
+    "items": [
+        {
+            "id": "https://bartob03.github.io/summerreading23/ring-shout-2.html",
+            "url": "https://bartob03.github.io/summerreading23/ring-shout-2.html",
+            "title": "Ring Shout",
+            "summary": "Clark, P. D. (2020). Ring shout. Tordotcom.",
+            "content_html": "<p>Clark, P. D. (2020). <em>Ring shout.</em> Tordotcom.</p>",
+            "image": "https://bartob03.github.io/summerreading23/media/posts/9/ringshout3.png",
+            "author": {
+                "name": "Brian Bartolome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-01T08:51:16+02:00",
+            "date_modified": "2023-08-01T08:53:22+02:00"
+        },
+        {
+            "id": "https://bartob03.github.io/summerreading23/i-think-our-son-is-gay.html",
+            "url": "https://bartob03.github.io/summerreading23/i-think-our-son-is-gay.html",
+            "title": "I Think Our Son is Gay",
+            "summary": "Okura. (2020). I think our son is gay. Square Enix.",
+            "content_html": "<p>Okura. (2020). <em>I think our son is gay.</em> Square Enix.</p>",
+            "image": "https://bartob03.github.io/summerreading23/media/posts/8/OIPgasy-2.jpg",
+            "author": {
+                "name": "Brian Bartolome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-01T08:48:30+02:00",
+            "date_modified": "2023-08-01T08:48:30+02:00"
+        },
+        {
+            "id": "https://bartob03.github.io/summerreading23/mexican-gothic.html",
+            "url": "https://bartob03.github.io/summerreading23/mexican-gothic.html",
+            "title": "Mexican Gothic",
+            "summary": "Moreno-Garcia, S. (2020). Mexican gothic. Random House.",
+            "content_html": "<p>Moreno-Garcia, S. (2020). <em>Mexican gothic.</em> Random House.</p>",
+            "image": "https://bartob03.github.io/summerreading23/media/posts/6/OIP-1.jpg",
+            "author": {
+                "name": "Brian Bartolome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-01T08:44:00+02:00",
+            "date_modified": "2023-08-01T08:44:00+02:00"
+        },
+        {
+            "id": "https://bartob03.github.io/summerreading23/i-have-loved-me-a-man-the-life-and-times-of-mika.html",
+            "url": "https://bartob03.github.io/summerreading23/i-have-loved-me-a-man-the-life-and-times-of-mika.html",
+            "title": "I Have Loved Me a Man: The Life and Times of Mika",
+            "summary": "Mazer, S. (2019). I have loved me a man: The life and times of Mika",
+            "content_html": "<p>Mazer, S. (2019). <em>I have loved me a man: The life and times of Mika</em></p>",
+            "image": "https://bartob03.github.io/summerreading23/media/posts/5/9781869408862__19769.jpg",
+            "author": {
+                "name": "Brian Bartolome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-01T08:42:46+02:00",
+            "date_modified": "2023-08-01T08:42:46+02:00"
+        },
+        {
+            "id": "https://bartob03.github.io/summerreading23/the-new-girl.html",
+            "url": "https://bartob03.github.io/summerreading23/the-new-girl.html",
+            "title": "The New Girl",
+            "summary": "Sutanto, J. (2022). The new girl. Sourcebooks.",
+            "content_html": "<p>Sutanto, J. (2022). <em>The new girl.</em> Sourcebooks.</p>",
+            "image": "https://bartob03.github.io/summerreading23/media/posts/4/FacXyTpWAAAcqd-.jpg",
+            "author": {
+                "name": "Brian Bartolome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-01T08:38:00+02:00",
+            "date_modified": "2023-08-01T08:38:31+02:00"
+        },
+        {
+            "id": "https://bartob03.github.io/summerreading23/homicide-and-halo-halo.html",
+            "url": "https://bartob03.github.io/summerreading23/homicide-and-halo-halo.html",
+            "title": " Homicide and Halo-Halo",
+            "summary": "Manansala, M. P. (2022). Homicide and halo-halo. California: Berkley.",
+            "content_html": "<p>Manansala, M. P. (2022). <em>Homicide and halo-halo.</em> California: Berkley.</p>\n<p> </p>",
+            "image": "https://bartob03.github.io/summerreading23/media/posts/3/halohaloR-1.jpg",
+            "author": {
+                "name": "Brian Bartolome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-01T08:36:38+02:00",
+            "date_modified": "2023-08-01T08:36:38+02:00"
+        },
+        {
+            "id": "https://bartob03.github.io/summerreading23/your-house-will-pay.html",
+            "url": "https://bartob03.github.io/summerreading23/your-house-will-pay.html",
+            "title": "Your House Will Pay",
+            "summary": "Cha, S. (2020). Your house will pay. Ecco.",
+            "content_html": "<p>Cha, S. (2020). <em>Your house will pay.</em> Ecco.</p>",
+            "image": "https://bartob03.github.io/summerreading23/media/posts/2/R.jpg",
+            "author": {
+                "name": "Brian Bartolome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-01T08:31:49+02:00",
+            "date_modified": "2023-08-01T08:34:35+02:00"
+        },
+        {
+            "id": "https://bartob03.github.io/summerreading23/starman-bowies-stardust-years.html",
+            "url": "https://bartob03.github.io/summerreading23/starman-bowies-stardust-years.html",
+            "title": "Starman: Bowie’s Stardust Years",
+            "summary": "Kleist, R. (2023). Starman: Bowie's stardust years. SelfMadeHero.",
+            "content_html": "<p>Kleist, R. (2023). <em>Starman: Bowie's stardust years.</em> SelfMadeHero.</p>\n<p> </p>",
+            "image": "https://bartob03.github.io/summerreading23/media/posts/1/starman-david-bowies-ziggy-stardust-years-recensione-graphic-novel_jpg_1200x0_crop_q85.jpg",
+            "author": {
+                "name": "Brian Bartolome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-01T08:30:14+02:00",
+            "date_modified": "2023-08-01T08:30:14+02:00"
+        }
+    ]
+}
